@@ -1,0 +1,48 @@
+D:\BTLon\QLLaoDong\bin\Debug\QLLaoDong.exe.config
+D:\BTLon\QLLaoDong\bin\Debug\QLLaoDong.exe
+D:\BTLon\QLLaoDong\bin\Debug\QLLaoDong.pdb
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.frmLogin.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.Properties.Resources.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.csproj.GenerateResource.Cache
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.exe
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.pdb
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.frmMain.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.frmQuanLyNhanVien.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.frmThongTinNhom.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.frmDanhSachNhanVien.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.frmThemCongTrinh.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.frmThemPhongBan.resources
+D:\BTLon\QLLaoDong\obj\Debug\QLLaoDong.csprojResolveAssemblyReference.cache
+D:\BTLon_Dotnet05\QLLaoDong\bin\Debug\QLLaoDong.exe.config
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.exe
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.pdb
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.csprojResolveAssemblyReference.cache
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmDanhSachNhanVien.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmLogin.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmMain.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmQuanLyNhanVien.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThemCongTrinh.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThemPhongBan.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThongTinNhom.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.Properties.Resources.resources
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.csproj.GenerateResource.Cache
+D:\BTLon_Dotnet05\QLLaoDong\bin\Debug\QLLaoDong.exe
+D:\BTLon_Dotnet05\QLLaoDong\bin\Debug\QLLaoDong.pdb
+D:\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThongKe.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\bin\Debug\QLLaoDong.exe.config
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\bin\Debug\QLLaoDong.exe
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\bin\Debug\QLLaoDong.pdb
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.csprojAssemblyReference.cache
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmDanhSachNhanVien.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmLogin.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmMain.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmQuanLyNhanVien.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThemCongTrinh.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThemPhongBan.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThongKe.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.frmThongTinNhom.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.Properties.Resources.resources
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.csproj.GenerateResource.cache
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.csproj.CoreCompileInputs.cache
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.exe
+D:\Học tập\Lập trình hướng sự kiện với công nghệ .NET\BTLon_Dotnet05\BTLon_Dotnet05\QLLaoDong\obj\Debug\QLLaoDong.pdb
